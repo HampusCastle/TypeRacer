@@ -10,4 +10,4 @@ https://github.com/FredrikEkmark/TypeRacer
 
 Gör ändringar i TypeRacerGame klassen och lägga till nya klasser ifall det behövs.  
 
-Uppgiften kommer bedömas utefter hur mycket detaljerad information spelaren får kring vad det gjort fel utan att visa expected och actual jämförda mot varandra. Om ni väljer att piffa upp det visuella så kan det ge lite extra poäng men ni är inga UX:are så smart kod vinner över vacker konsol. Smarta ändringar som inte nämnts i beskrivningen är lite hitt or miss eftersom domarna kommer bedöma beroende på smak.  
+Uppgiften kommer bedömas utefter hur mycket detaljerad information spelaren får kring vad det gjort fel utan att visa expected och actual jämförda mot varandra. Om ni väljer att piffa upp det visuella så kan det ge lite extra poäng men ni är inga UX:are så smart kod vinner över vacker konsol. Smarta ändringar som inte nämnts i beskrivningen är lite hit or miss eftersom domarna kommer bedöma beroende på smak.  
