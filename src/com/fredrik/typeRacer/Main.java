@@ -7,8 +7,8 @@ public class Main {
 
         TypeRacerGame typeRacerGame = new TypeRacerGame();
 
-        // This is where the game starts
         typeRacerGame.startGame(sentenceGenerator.getRandomSentence());
 
+        }
+
     }
-}
